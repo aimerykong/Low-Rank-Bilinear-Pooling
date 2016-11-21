@@ -1,6 +1,11 @@
 # Low-Rank-Bilinear-Pooling
 --- Code, demo and model for our project of low rank bilinear pooling for fine-grained classification
 
+See project page here --
+
+http://www.ics.uci.edu/~skong2/lr_bilinear.html
+
+
 checklist -- 
 
 1. quick training using caffe, including matlab files for initialization;
