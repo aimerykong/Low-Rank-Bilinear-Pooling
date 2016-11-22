@@ -5,7 +5,7 @@ See project page here --
 
 http://www.ics.uci.edu/~skong2/lr_bilinear.html
 
-Several demos is included as below -- 
+Several demos are/will be included as below -- 
 
 1. demo 1: quick training using caffe, including matlab files for initialization;
 
