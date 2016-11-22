@@ -1,5 +1,5 @@
 # The train/test net protocol buffer definition
-net: "/mnt/data2/skong/BirdProject/githubRelease/Low-Rank-Bilinear-Pooling/demo1_quickTrainCaffe/archBird_TensorAll.prototxt"
+net: "/mnt/data2/skong/BirdProject/githubRelease/Low-Rank-Bilinear-Pooling/demo1_quickTrainCaffe/archBird_All.prototxt"
 
 # test_iter specifies how many forward passes the test should carry out.
 test_initialization: false

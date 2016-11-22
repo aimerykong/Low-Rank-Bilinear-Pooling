@@ -1,5 +1,5 @@
-./trainBird_Tensor.sh 2>&1 | tee  trainBird_Tensor.log
-./trainBird_TensorAll.sh 2>&1 | tee  trainBird_TensorAll.log
+./trainBird.sh 2>&1 | tee  trainBird.log
+./trainBird_All.sh 2>&1 | tee  trainBird_All.log
 
 
 

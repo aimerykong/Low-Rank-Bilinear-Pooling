@@ -9,7 +9,7 @@ addpath ../caffe-20160312/matlab
 caffe.set_mode_gpu();
 % caffe.set_device(1);
 
-model = './archBird_Tensor.deploy';
+model = './archBird.deploy';
 weights = './initModel_rDim100.caffemodel';
 
 if ~exist('netInit','var')

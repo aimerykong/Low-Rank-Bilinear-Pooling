@@ -12,7 +12,7 @@ cd $CURPATH
 TOOLS=./build/tools
 
 $TOOLS/caffe.bin train \
-  --solver=/mnt/data2/skong/BirdProject/githubRelease/Low-Rank-Bilinear-Pooling/demo1_quickTrainCaffe/solverBird_Tensor.prototxt -gpu 0 \
+  --solver=/mnt/data2/skong/BirdProject/githubRelease/Low-Rank-Bilinear-Pooling/demo1_quickTrainCaffe/solverBird.prototxt -gpu 0 \
   --weights=/mnt/data2/skong/BirdProject/githubRelease/Low-Rank-Bilinear-Pooling/demo1_quickTrainCaffe/PCA_initCaffemodel.caffemodel
   #--weights=/home/skong/BirdProject/baseModel/VGG16FCN.caffemodel
   
