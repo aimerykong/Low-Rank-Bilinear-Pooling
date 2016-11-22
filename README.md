@@ -17,6 +17,9 @@ Several demos are/will be included as below --
 
 5. TBA...
 
+For each demo, there will be some models involved. Please download those models from the google drive -- https://drive.google.com/open?id=0BxeylfSgpk1MOWt3U1U4WWdmSkk
+
+
 The folder named "caffe-20160312" is a modified caffe toolbox by Yang Gao for his "compact bilinear pooling" project (see https://github.com/gy20073/compact_bilinear_pooling). 
 Please follow the caffe instructions for compiling the toolbox. The configuration file within it should be revised accordingly. 
 
