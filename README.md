@@ -1,9 +1,7 @@
 # Low-Rank-Bilinear-Pooling
---- Code, demo and model for our project of low rank bilinear pooling for fine-grained classification
+### Code, demo and model for our project of low rank bilinear pooling for fine-grained classification
 
-See project page here --
-
-http://www.ics.uci.edu/~skong2/lr_bilinear.html
+For papers, slides, posters, please refer to our[project page](http://www.ics.uci.edu/~skong2/lr_bilinear.html "LRBP")
 
 Several demos are/will be included as below -- 
 
