@@ -32,7 +32,7 @@ Through all these, I get two plots --
 
 The performance should be around 83.5% accuracy. To improve the performance a bit, you can consider augmenting training data through random scaling/cropping/rotation, and also augment testing images and averaging the score for each testing image.
 
-Laster update: 11/22/2016
+Laster update: 11/23/2016
 
 Shu Kong 
 

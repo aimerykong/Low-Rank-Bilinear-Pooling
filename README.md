@@ -26,7 +26,7 @@ As for details on the training, demo and code, please go into each demo folder.
 The repository will be updated frequently before year 2017:)
 
 
-last update: 11/22/2016
+last update: 11/23/2016
 
 Shu Kong
 
