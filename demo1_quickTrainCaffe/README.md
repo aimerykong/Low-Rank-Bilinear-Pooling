@@ -6,7 +6,9 @@ Please note that the configuration for this demo is not exactly the same as our 
 The dataset used here is the bird one CUB-200-2011. So downloading the dataset, making a dataset ".mat" file is a must-do step. Please refer to Tsung-Yu's Bilinear CNN or Yang's Compact Bilinear Pooling for how to download and make the file. I will also make a guide later.
 
 There are two "main" files --
+
 1. main000 -- generating training and testing lists for caffe
+
 2. main001 -- feeding training images to a base CNN model, 
 			obtaining the activations, 
 			using PCA to decompose the activations, 
