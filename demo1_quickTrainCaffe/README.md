@@ -19,14 +19,16 @@ The matlab files above will generate all the intermediate files/models for train
 
 	
 Running command line `./nohup.sh` will train last layer, and fine-tuning the whole model.
-
-
  
 You are highly recommended to go through the "prototxt", "solver" and "sh" files.
-After training, you can use command "python drawTrainCurve.py trainBird.log" to plot the training curve.
+After training, you can use command `python drawTrainCurve.py trainBird.log` to plot the training curve.
 Through all these, I get two plots --
-	* trainBird.log.jpg 	-- for training laster layer
-	* trainBird_All.log.jpg	-- for fine-tuning the whole model
+
+* trainBird.log.jpg 	-- for training laster layer
+
+* trainBird_All.log.jpg	-- for fine-tuning the whole model
+
+![alt text](https://github.com/aimerykong/Low-Rank-Bilinear-Pooling/blob/master/demo1_quickTrainCaffe/trainBird_All.log.jpg "fine-tuning whole model")
 
 The performance should be around 83.5% accuracy. To improve the performance a bit, you can consider augmenting training data through random scaling/cropping/rotation, and also augment testing images and averaging the score for each testing image.
 
