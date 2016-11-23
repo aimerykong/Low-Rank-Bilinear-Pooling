@@ -5,7 +5,7 @@
 
 
 
-For papers, slides, posters, please refer to our [project page](http://www.ics.uci.edu/~skong2/lr_bilinear.html "LRBP")
+For papers, slides and posters, please refer to our [project page](http://www.ics.uci.edu/~skong2/lr_bilinear.html "LRBP")
 
 Several demos are/will be included as below -- 
 
@@ -18,7 +18,7 @@ Several demos are/will be included as below --
 For each demo, there will be some models involved. Please download those models from the [google drive](https://drive.google.com/open?id=0BxeylfSgpk1MOWt3U1U4WWdmSkk)
 
 
-The folder named "caffe-20160312" is a modified caffe toolbox by Yang Gao for his "compact bilinear pooling" [page](see https://github.com/gy20073/compact_bilinear_pooling). 
+The folder named "caffe-20160312" is a modified caffe toolbox by Yang Gao for his "compact bilinear pooling" [page](https://github.com/gy20073/compact_bilinear_pooling). 
 Please follow the caffe instructions for compiling the toolbox. The configuration file within it should be revised accordingly. 
 
 As for details on the training, demo and code, please go into each demo folder.
