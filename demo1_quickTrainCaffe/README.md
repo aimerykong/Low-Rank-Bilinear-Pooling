@@ -26,7 +26,7 @@ Through all these, I get two plots --
 
 * trainBird.log.jpg 	-- for training laster layer
 
-* trainBird_All.log.jpg	-- for fine-tuning the whole model
+* trainBird_All.log.jpg	(as below) -- for fine-tuning the whole model 
 
 ![alt text](https://github.com/aimerykong/Low-Rank-Bilinear-Pooling/blob/master/demo1_quickTrainCaffe/trainBird_All.log.jpg "fine-tuning whole model")
 
