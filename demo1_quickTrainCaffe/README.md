@@ -1,13 +1,13 @@
-This is the first demo about quick training of our low-rank bilinear pooling model.
+### This is the first demo about quick training of our low-rank bilinear pooling model.
 
 Please note that the configuration for this demo is not exactly the same as our model described in the paper. I haven't implemented it in caffe, while caffe runs faster than matconvnet. Strictly speaking, this is an implementation on the classifier co-decomposition and full-rank linear SVM on the bilinear feature on low-dimensional subspace. This demo gives you an idea that good performance can be achieved by projecting features onto low-dimensional subspace (derived from classifier co-decomposition).
 
 
 The dataset used here is the bird one CUB-200-2011. So downloading the dataset, making a dataset ".mat" file is a must-do step. Please refer to Tsung-Yu's Bilinear CNN or Yang's Compact Bilinear Pooling for how to download and make the file. I will also make a guide later.
 
-There are several "main" files --
-	main000 -- generating training and testing lists for caffe
-	main001 -- feeding training images to a base CNN model, 
+There are two "main" files --
+	..*main000 -- generating training and testing lists for caffe
+	..*main001 -- feeding training images to a base CNN model, 
 			obtaining the activations, 
 			using PCA to decompose the activations, 
 			initializing P,
