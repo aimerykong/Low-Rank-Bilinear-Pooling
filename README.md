@@ -27,17 +27,12 @@ The repository will be updated soon.
 
 If you find our model/method/dataset useful, please cite our work:
 
-@inproceedings{kong2017lowrankbilinear,
-
-  title={Low-rank Bilinear Pooling for Fine-Grained Classification},
-  
-  author={Kong, Shu and Fowlkes, Charless},
-  
-  booktitle={CVPR},
-  
-  year={2017}
-  
-}
+    @inproceedings{kong2017lowrankbilinear,
+      title={Low-rank Bilinear Pooling for Fine-Grained Classification},
+      author={Kong, Shu and Fowlkes, Charless},
+      booktitle={CVPR},
+      year={2017}
+    }
 
 
 
