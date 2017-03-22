@@ -23,7 +23,17 @@ Please follow the caffe instructions for compiling the toolbox. The configuratio
 
 As for details on the training, demo and code, please go into each demo folder.
 
-The repository will be updated frequently before year 2017:)
+The repository will be updated soon.
+
+If you find our model/method/dataset useful, please cite our work:
+@inproceedings{kong2017lowrankbilinear,
+  title={Low-rank Bilinear Pooling for Fine-Grained Classification},
+  author={Kong, Shu and Fowlkes, Charless},
+  booktitle={CVPR},
+  year={2017}
+}
+
+
 
 
 last update: 03/21/2017
