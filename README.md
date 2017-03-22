@@ -41,4 +41,4 @@ last update: 03/21/2017
 
 Shu Kong
 
-aimerykong AtT gmail dott cooooooooom
+aimerykong At g-m-a-i-l dot com
