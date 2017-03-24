@@ -9,9 +9,9 @@ For papers, slides and posters, please refer to our [project page](http://www.ic
 
 Several demos are/will be included as below -- 
 
-1. demo 1: quick training using caffe, including matlab files for initialization [done];
-2. demo 2: hyperparameter study by low-rank and co-decomposition on the classifier parameters [done];
-3. demo 3: three methods of visualization [tba];
+1. demo 1: quick training using caffe, including matlab files for initialization [available];
+2. demo 2: hyperparameter study by low-rank and co-decomposition on the classifier parameters [available];
+3. demo 3: three methods of visualization [available];
 4. demo 4: fine-tuning the network using matconvnet [tba];
 5. TBA...
 
