@@ -4,6 +4,8 @@
 ![link](https://github.com/aimerykong/Low-Rank-Bilinear-Pooling/blob/master/demo3_modelVisualization/simplificationTestCls1_Img1.jpg)
 
 
+![link](http://www.ics.uci.edu/~skong2/img/focusHighlight_3vis.png)
+
 To generate the figures in the paper, please simply run matlab files starting with "savefig". The "mat" files stores all the intermediate results from low-rank models. If you want to reproduce the results, please refer to file "main001...". A complete matconvnet toolbox will be included as another demo.
 
 Please download model with this [link](https://drive.google.com/drive/folders/0BxeylfSgpk1MUC1KUGI4MnF4ZWc)
