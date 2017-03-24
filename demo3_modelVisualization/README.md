@@ -3,7 +3,7 @@
 
 To generate the figures in the paper, please simply run matlab files starting with "savefig". The "mat" files stores all the intermediate results from low-rank models. If you want to reproduce the results, please refer to file "main001...". A complete matconvnet toolbox will be included as another demo.
 
-Please download model with this ![link](https://drive.google.com/open?id=0BxeylfSgpk1MOGNPZkxiWE1NUUU)
+Please download model with this [link](https://drive.google.com/open?id=0BxeylfSgpk1MOGNPZkxiWE1NUUU)
 
 To visualize, please run "visualze...m" matlab functions.
 
