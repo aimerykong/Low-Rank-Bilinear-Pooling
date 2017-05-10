@@ -1,0 +1,6 @@
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt/train_part001.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt/train_part002.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt/train_part003.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt/train_part004.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt/train_part005.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt/train_part006.h5

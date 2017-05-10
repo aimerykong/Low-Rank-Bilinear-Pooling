@@ -1,0 +1,3 @@
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt_meanSubAug/test_part001.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt_meanSubAug/test_part002.h5
+/home/skong2/data/BirdProject/matconvnetBilinear/HDF5BilinearData_matconvnetScaledSqrt_meanSubAug/test_part003.h5

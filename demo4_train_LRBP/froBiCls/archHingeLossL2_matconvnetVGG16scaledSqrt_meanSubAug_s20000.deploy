@@ -1,0 +1,42 @@
+name: "CaffeNet"
+#
+input: "data"
+input_dim: 1
+input_dim: 1
+input_dim: 512
+input_dim: 512
+
+
+layer {
+  name: "fc"
+  type: "InnerProduct"
+  bottom: "data"
+  top: "fc"
+  param {
+    lr_mult: 1
+    decay_mult: 1
+  }
+  param {
+    lr_mult: 2
+    decay_mult: 0
+  }
+  inner_product_param {
+    num_output: 202
+    weight_filler {
+      type: "gaussian"
+      std: 0.01
+    }
+    bias_filler {
+      type: "constant"
+      value: 0
+    }
+  }
+}
+
+layer {
+  name: "softmaxOutput"
+  type: "Softmax"
+  bottom: "fc"
+  top: "softmaxOutput"
+}
+
