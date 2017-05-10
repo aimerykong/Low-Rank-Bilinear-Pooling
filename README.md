@@ -12,8 +12,7 @@ Several demos are/will be included as below --
 1. demo 1: quick training using caffe, including matlab files for initialization [available];
 2. demo 2: hyperparameter study by low-rank and co-decomposition on the classifier parameters [available];
 3. demo 3: three methods of visualization [available];
-4. demo 4: fine-tuning the network using matconvnet [tba];
-5. TBA...
+4. demo 4: fine-tuning the network using matconvnet [available];
 
 For each demo, there will be some models involved. Please download those models from the [google drive](https://drive.google.com/open?id=0BxeylfSgpk1MOWt3U1U4WWdmSkk)
 
@@ -23,7 +22,6 @@ Please follow the caffe instructions for compiling the toolbox. The configuratio
 
 As for details on the training, demo and code, please go into each demo folder.
 
-The repository will be updated soon.
 
 If you find our model/method/dataset useful, please cite our work:
 
@@ -37,7 +35,7 @@ If you find our model/method/dataset useful, please cite our work:
 
 
 
-last update: 03/23/2017
+last update: 05/09/2017
 
 Shu Kong
 
